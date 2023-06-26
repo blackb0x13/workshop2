@@ -1,0 +1,11 @@
+ec2-3-22-88-119.us-east-2.compute.amazonaws.com
+
+'ec2-3-22-88-119.us-east-2.compute.amazonaws.com', '0.0.0.0', 'localhost', '127.0.0.1'
+
+workshop2 URI
+309955762325.dkr.ecr.us-east-2.amazonaws.com/workshop2
+
+nctutorials endpoint
+nctutorials.cudub8g9cj68.us-east-2.rds.amazonaws.com
+
+https://github.com/blackb0x13/workshop2.git
